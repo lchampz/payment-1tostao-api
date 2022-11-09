@@ -4,7 +4,8 @@
   "description": "Api do sistema 1Tostao",
   "main": "express.js",
   "scripts": {
-    "start": "nodemon express.js"
+    "start": "nodemon express.js",
+    "build": "node express.js",
   },
   "author": "1Tostão Dev Team",
   "license": "ISC",
